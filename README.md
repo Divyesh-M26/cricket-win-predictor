@@ -95,6 +95,8 @@ pip install pandas scikit-learn streamlit joblib
 
 python -m streamlit run app.py
 
+---
+
 ##📌 Future Improvements
 
 Try advanced models (Random Forest, XGBoost)
@@ -105,9 +107,13 @@ Improve probability calibration
 
 Add win probability visualization over time
 
+---
+
 ##👨‍💻 Author
 
 Divyesh M P
+
+---
 
 ##🎯 Project Goal
 
