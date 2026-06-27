@@ -86,17 +86,6 @@ Output:
 
 ---
 
-## ⚙️ How to Run
-
-Install dependencies:
-
-```bash
-pip install pandas scikit-learn streamlit joblib
-
-python -m streamlit run app.py
-
----
-
 ##📌 Future Improvements
 
 Try advanced models (Random Forest, XGBoost)
@@ -111,7 +100,7 @@ Add win probability visualization over time
 
 ##👨‍💻 Author
 
-Divyesh M P
+Divyesh M Perabattula
 
 ---
 
