@@ -95,7 +95,7 @@ pip install pandas scikit-learn streamlit joblib
 
 python -m streamlit run app.py
 
-📌 Future Improvements
+##📌 Future Improvements
 
 Try advanced models (Random Forest, XGBoost)
 
@@ -105,10 +105,10 @@ Improve probability calibration
 
 Add win probability visualization over time
 
-👨‍💻 Author
+##👨‍💻 Author
 
 Divyesh M P
 
-🎯 Project Goal
+##🎯 Project Goal
 
 To explore how machine learning can be applied to real-time sports situations by predicting win probability using structured match data.
